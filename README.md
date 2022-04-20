@@ -16,3 +16,5 @@ train_project.py: Used for data training.
 test.py: Upload an image for testing and find cars using the sliding window system.
 dataset.txt: a set of images in a formatted sequence.
 crop_data.m: matlab code for cropping images from a video.
+ 
+ More than 1098 Images have been extracted from the uploaded video.
