@@ -4,12 +4,12 @@ The aim of this project is to train the R-CNN model in various car videos and to
 After extracting images from the video we use a crop_data.m file we store the images in a separate folder and label it as
 
 0 in different vehicles.
-1 cars.
-2 of two wheels.
-4 in Heavy vehicles.
-3 on non-motor vehicle items.
+1 for cars.
+2 for two wheels.
+3 for Heavy vehicles.
+4 for non-motor vehicle items.
 
-The file provided is:
+The files provided are:
 The following model launch files:
 
 train_project.py: Used for data training.
